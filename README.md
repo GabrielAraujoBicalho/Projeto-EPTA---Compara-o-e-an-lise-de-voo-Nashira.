@@ -1,4 +1,4 @@
-# Projeto-EPTA Comparação e análise de voo Nashira.
+# Projeto EPTA - Comparação e análise de voo Nashira.
 Projeto desenvolvido por mim para o desafio EPTA (EQUIPE DE PROPULSÃO E TECNOLOGIA AEROESPACIAL) da UFU.
 
 # 🚀 Projeto EPTA - Desafio de Dinâmica de Voo: Calisto vs. Nashira
