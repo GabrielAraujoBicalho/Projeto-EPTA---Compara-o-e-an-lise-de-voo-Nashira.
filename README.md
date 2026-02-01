@@ -41,7 +41,4 @@ Análise cruzada de três variáveis fundamentais:
 
 
 ## 📊 Principais Conclusões
-* O modelo teórico apresentou um erro percentual reduzido em relação ao apogeu real, validando o uso do **RocketPy**.
-* Foram identificados eventos de ejeção de paraquedas através da variação brusca na aceleração vertical e taxa de descida.
-* A experiência permitiu compreender as discrepâncias inerentes ao mundo real, como ventos locais e variações de empuxo nominal.
-
+* A realização deste projeto permitiu a consolidação de conhecimentos fundamentais em engenharia aeroespacial, tornando possível a comparação direta e criteriosa entre os dados teóricos do foguete Calisto e os dados experimentais obtidos pelo foguete Nashira. Observar a convergência entre os modelos matemáticos da biblioteca RocketPy e a telemetria real foi um processo fundamental para validar a metodologia do projeto. Além dos resultados técnicos, a experiência de desenvolver este trabalho foi extremamente enriquecedora, proporcionando uma visão prática sobre o tratamento de dados brutos e a dinâmica de voo, fortalecendo a capacidade de análise e tomada de decisão para missões futuras.
